@@ -7,8 +7,11 @@ interests:
   - Natural language Processing
   - Machine Learning
 social:
+  - icon: envelope
+    icon_pack: fab
+    link: mailto:swj0419@uw.edu
   - icon: google-scholar
-    icon_pack: ai
+    icon_pack: fab
     link: https://scholar.google.com/citations?user=4xMPgUcAAAAJ&hl=en
   - icon: twitter
     icon_pack: fab
