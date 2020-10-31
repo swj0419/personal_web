@@ -21,7 +21,7 @@ organizations:
     url: https://www.cs.washington.edu/
 education:
   courses:
-    - course: PhD student
+    - course: Ph.D student
       institution: University of Washington
     - course: B.S in Computer Science
       institution: UCLA
