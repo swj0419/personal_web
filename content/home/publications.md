@@ -1,3 +1,5 @@
+widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
+title = "Projects"
 # Publications
 ## 2020
 Design Challenges for Low-resource Cross-lingual Entity Linking \
@@ -12,6 +14,7 @@ In Proceedings of the 17th International Conference on Principles of Knowledge R
 
 Cross-lingual entity alignment for knowledge graphs with incidental supervision from free text \
 Preprints
+
 
 ## 2019
 Retrofitting contextualized word embeddings with paraphrases \
