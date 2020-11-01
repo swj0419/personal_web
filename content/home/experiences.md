@@ -1,9 +1,7 @@
----
-[design]
-  # Choose how many columns the section has. Valid values: 1 or 2.
-  title: "Experiences"
++++
+ title = "Experiences"
   
----
++++
 
 * University of Pennsylvania (2019.6-2019.9) \
 Undergraduate research intern, supervised by [Dan Roth](https://www.cis.upenn.edu/~danroth/) 
