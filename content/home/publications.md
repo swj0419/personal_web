@@ -1,6 +1,8 @@
-[design]
-  columns = "1"
-  
+---
+date: 2017-12-01
+title: My first blog post
+---  
+
 # Publications
 ## 2020
 * Design Challenges for Low-resource Cross-lingual Entity Linking \
