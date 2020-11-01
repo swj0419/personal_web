@@ -9,7 +9,6 @@ view: 2
 
 # Optional header image (relative to `static/media/` folder).
 header:
-  caption: "asdasdasdasdasdasdad"
+  caption: "asdasdasasdasddasdasdasdad"
   image: ""
-  adadsad asd adasdadads
 ---
