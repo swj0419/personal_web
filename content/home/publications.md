@@ -1,3 +1,6 @@
+[design]
+  columns = "1"
+  
 # Publications
 ## 2020
 * Design Challenges for Low-resource Cross-lingual Entity Linking \
