@@ -38,7 +38,7 @@ In Proceedings of the 25th Conference on Empirical Methods in Natural Language P
 In Proceedings of the 4th Workshop on Representation Learning for NLP (RepL4NLP-2019).
 [[paper](https://arxiv.org/abs/1906.08939)]
 
-* Compiling neural networks into tractable Boolean circuits
+* Compiling neural networks into tractable Boolean circuits \
 *Arthur Choi, __Weijia Shi__, Andy Shih, Adnan Darwiche* \
 In AAAI Spring Symposium on Verification of Neural Networks (VNN)	
 [[paper](https://www-cs.stanford.edu/~andyshih/assets/pdf/CSSDvnn19.pdf)]
