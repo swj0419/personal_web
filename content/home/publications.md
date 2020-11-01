@@ -9,7 +9,7 @@
 # Publications
 ## 2020
 * Design Challenges for Low-resource Cross-lingual Entity Linking \
-*Xingyu Fu\*, __Weijia Shi__\*, Zian Zhao, Xiaodong Yu, Dan Roth* \
+<span style="color:grey"> *Xingyu Fu\*, __Weijia Shi__\*, Zian Zhao, Xiaodong Yu, Dan Roth* </span> \
 In Proceedings of the 25th Conference on Empirical Methods in Natural Language Processing (EMNLP), 2020.
 [[paper](https://arxiv.org/abs/2005.00692)]
 
