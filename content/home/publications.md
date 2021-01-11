@@ -9,7 +9,7 @@
 # Publications
 ## 2021
 * Cross-lingual entity alignment for knowledge graphs with incidental supervision from free text \
-*Muhao Chen\*, __Weijia Shi\*__, Ben Zhou, Dan Roth*
+*Muhao Chen\*, __Weijia Shi\*__, Ben Zhou, Dan Roth* \
 In the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2021.
 
 ## 2020
