@@ -7,6 +7,10 @@
 +++
 
 # Publications
+## 2021
+* Cross-lingual entity alignment for knowledge graphs with incidental supervision from free text \
+*Muhao Chen\*, __Weijia Shi\*__, Ben Zhou, Dan Roth*
+
 ## 2020
 * Design Challenges for Low-resource Cross-lingual Entity Linking \
 <span style="color:3A3939"> *Xingyu Fu\*, __Weijia Shi__\*, Zian Zhao, Xiaodong Yu, Dan Roth* </span> \
@@ -18,8 +22,6 @@ In Proceedings of the 25th Conference on Empirical Methods in Natural Language P
 In Proceedings of the 17th International Conference on Principles of Knowledge Representation and Reasoning (KR) 2020.
 [[paper](https://arxiv.org/abs/2004.02082)]
 
-* Cross-lingual entity alignment for knowledge graphs with incidental supervision from free text \
-Preprints
 
 
 ## 2019
