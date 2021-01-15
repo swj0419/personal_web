@@ -1,7 +1,7 @@
 ---
 title: Weijia Shi
 role: Ph.D. Student
-avatar_filename: avatar.jpg
+avatar_filename: img_5520.jpg
 bio: ""
 interests:
   - Natural language Processing
