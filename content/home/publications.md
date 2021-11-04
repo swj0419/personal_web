@@ -8,6 +8,8 @@
 
 # Publications
 ## 2021
+* Improving Factual Consistency of Abstractive Summarization by Unlikelihood Training * (in progress)
+
 * DESCGEN: A Distantly Supervised Dataset for Generating Abstractive Entity Descriptions \
 Weijia Shi, Mandar Joshi, Luke Zettlemoyer \
 In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL), 2021.
@@ -40,6 +42,11 @@ In Proceedings of the 25th Conference on Empirical Methods in Natural Language P
 *Pei Zhou, __Weijia Shi__, Jieyu Zhao, Kuan-Hao Huang, Muhao Chen, Ryan Cotterell, Kai-Wei Chang* \
 In Proceedings of the 25th Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019.
 [[paper](https://arxiv.org/abs/1909.02224)]
+
+* Embedding uncertain knowledge graphs \
+*Xuelu Chen, Muhao Chen, __Weijia Shi__, Yizhou Sun, Carlo Zaniolo* \
+In Proceedings of the 25th Conference on Empirical Methods in Natural Language Processing (EMNLP), 2019.
+[[paper](https://arxiv.org/abs/1909.09700)]
 
 * Learning bilingual word embeddings using lexical definitions \
 *__Weijia Shi__, Muhao Chen, Yingtao Tian, Kai-Wei Chang* \
