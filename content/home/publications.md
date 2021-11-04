@@ -8,7 +8,7 @@
 
 # Publications
 ## 2021
-* Improving Factual Consistency of Abstractive Summarization by Unlikelihood Training * (in progress)
+* Improving Factual Consistency of Abstractive Summarization by Unlikelihood Training (in progress)
 
 * DESCGEN: A Distantly Supervised Dataset for Generating Abstractive Entity Descriptions \
 Weijia Shi, Mandar Joshi, Luke Zettlemoyer \
