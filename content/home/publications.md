@@ -8,8 +8,8 @@
 
 # Publications
 ## 2022
-* DESCGEN: A Distantly Supervised Dataset for Generating Abstractive Entity Descriptions \
-Weijia Shi, Mandar Joshi, Luke Zettlemoyer \
+* Nearest Neighbor Zero-Shot Inference \
+Weijia Shi, Julian Michael, Suchin Gururangan, Luke Zettlemoyer \
 Preprint [[paper](https://arxiv.org/pdf/2205.13792.pdf)]
 
 ## 2021
