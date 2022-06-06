@@ -7,17 +7,21 @@
 +++
 
 # Publications
-## 2021
-* Improving Factual Consistency of Abstractive Summarization by Unlikelihood Training (in progress)
-
+## 2022
 * DESCGEN: A Distantly Supervised Dataset for Generating Abstractive Entity Descriptions \
 Weijia Shi, Mandar Joshi, Luke Zettlemoyer \
-In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL), 2021.
+Preprint [[paper](https://arxiv.org/pdf/2205.13792.pdf)]
+
+## 2021
+* DESCGEN: A Distantly Supervised Dataset for Generating Abstractive Entity Descriptions \
+Weijia Shi, Mandar Joshi, Luke Zettlemoyer \
+In Proceedings of the 59th Annual Meeting of the Association for Computational Linguistics (ACL), 2021. 
+[[paper](https://aclanthology.org/2021.acl-long.35.pdf)]
 
 * Cross-lingual entity alignment for knowledge graphs with incidental supervision from free text \
 *Muhao Chen\*, __Weijia Shi\*__, Ben Zhou, Dan Roth* \
 In the 16th Conference of the European Chapter of the Association for Computational Linguistics (EACL), 2021.
-
+[[paper](https://aclanthology.org/2021.eacl-main.53.pdf)]
 
 ## 2020
 * Design Challenges for Low-resource Cross-lingual Entity Linking \
